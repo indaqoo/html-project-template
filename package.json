@@ -1,0 +1,19 @@
+{
+  "name": "side_network",
+  "version": "0.0.1",
+  "description": "Side Network 2.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "gulp": "gulp"
+  },
+  "author": "Roberts P",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.27.10",
+    "gulp": "^4.0.2",
+    "gulp-file-include": "^2.3.0",
+    "gulp-sass": "^5.1.0",
+    "node-sass": "^8.0.0"
+  }
+}
